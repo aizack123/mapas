@@ -1,177 +1,554 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <Placemark id="3">
             <name>SUAPI_KM73_TSI</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#4</styleUrl>
             <Point id="2">
                 <coordinates>-67.45112,-15.51194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5">
+        <Placemark id="8">
             <name>ORO_VERDE_TSI</name>
-            <Point id="4">
+            <description>Categoría: Default</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
                 <coordinates>-67.46283,-15.53391,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7">
-            <name>SAN_LORENZO_CARANAVI_TSI</name>
-            <Point id="6">
-                <coordinates>-67.50969,-15.79165,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9">
-            <name>CASERIOS_NUEVE_TSI</name>
-            <Point id="8">
-                <coordinates>-67.3995,-15.59653,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="11">
-            <name>SANTA_ROSA_ALTO_BENI_TSI</name>
-            <Point id="10">
-                <coordinates>-67.45009,-15.54763,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="13">
-            <name>KOLLASUYO_B_TSI_4G</name>
+            <name>SAN_LORENZO_CARANAVI_TSI</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#14</styleUrl>
             <Point id="12">
-                <coordinates>-67.56223,-15.66208,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15">
-            <name>CASERIOS_NUEVE_TSI_4G</name>
-            <Point id="14">
-                <coordinates>-67.3995,-15.59653,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17">
-            <name>SANTA_ROSA_ALTO_BENI_TSI_4G</name>
-            <Point id="16">
-                <coordinates>-67.45009,-15.54763,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19">
-            <name>ORO_VERDE_TSI_4G</name>
-            <Point id="18">
-                <coordinates>-67.46283,-15.53391,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21">
-            <name>SAN_LORENZO_CARANAVI_TSI_4G</name>
-            <Point id="20">
                 <coordinates>-67.50969,-15.79165,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="18">
+            <name>CASERIOS_NUEVE_TSI</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>-67.3995,-15.59653,0.0</coordinates>
+            </Point>
+        </Placemark>
         <Placemark id="23">
-            <name>SUAPI_KM73_TSI_4G</name>
+            <name>SANTA_ROSA_ALTO_BENI_TSI</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#24</styleUrl>
             <Point id="22">
-                <coordinates>-67.45112,-15.51194,0.0</coordinates>
+                <coordinates>-67.45009,-15.54763,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25">
-            <name>MAYAYA_PUEBLO_4G</name>
-            <Point id="24">
-                <coordinates>-67.60716,-15.41678,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27">
-            <name>PALMAR_SUAPI_IRB2_4G</name>
-            <Point id="26">
-                <coordinates>-67.47317,-15.50762,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="29">
-            <name>AGRARIA_22_DE_JULIO_IRB2_4G</name>
-            <Point id="28">
-                <coordinates>-67.55106,-15.35143,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="31">
-            <name>SANTA_ANA_DE_MOSETENES_4G</name>
-            <Point id="30">
-                <coordinates>-67.42295,-15.51073,0.0</coordinates>
+        <Placemark id="28">
+            <name>KOLLASUYO_B_TSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-67.56223,-15.66208,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="33">
-            <name>SAN_PEDRO_DE_LLUQUIMUNI_IRB2_4G</name>
+            <name>CASERIOS_NUEVE_TSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#34</styleUrl>
             <Point id="32">
-                <coordinates>-67.67519,-15.24191,0.0</coordinates>
+                <coordinates>-67.3995,-15.59653,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="35">
-            <name>TRONCAL_INCAHUARA_IRB2_4G</name>
-            <Point id="34">
-                <coordinates>-67.63455,-15.45081,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="37">
-            <name>VILLAZON_IRB2_4G</name>
-            <Point id="36">
-                <coordinates>-67.36039,-15.52325,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="39">
-            <name>CO_MULA_4G</name>
-            <Point id="38">
-                <coordinates>-67.48951,-15.67438,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="41">
-            <name>INICUA_4G</name>
-            <Point id="40">
-                <coordinates>-67.26244,-15.50837,0.0</coordinates>
+        <Placemark id="38">
+            <name>SANTA_ROSA_ALTO_BENI_TSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>-67.45009,-15.54763,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="43">
-            <name>ALTO_MERCEDES_IRB2_4G</name>
+            <name>ORO_VERDE_TSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#44</styleUrl>
             <Point id="42">
-                <coordinates>-67.29969,-15.64897,0.0</coordinates>
+                <coordinates>-67.46283,-15.53391,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="45">
-            <name>VILLA_EL_TRIUNFO_IRB1_4G</name>
-            <Point id="44">
-                <coordinates>-66.93816,-15.85196,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="47">
-            <name>BAJO_ISRAEL_4G</name>
-            <Point id="46">
-                <coordinates>-67.52308,-15.75772,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="49">
-            <name>TUPAC_AMARU_4G</name>
-            <Point id="48">
-                <coordinates>-67.4101,-15.8482,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="51">
-            <name>SAN_JORGE_1RO_IRB2_4G</name>
-            <Point id="50">
-                <coordinates>-67.65501,-15.79509,0.0</coordinates>
+        <Placemark id="48">
+            <name>SAN_LORENZO_CARANAVI_TSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>-67.50969,-15.79165,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="53">
-            <name>SAN_JUAN_DE_PIQUENDO_IRB2_4G</name>
+            <name>SUAPI_KM73_TSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#54</styleUrl>
             <Point id="52">
+                <coordinates>-67.45112,-15.51194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>MAYAYA_PUEBLO_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>-67.60716,-15.41678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>PALMAR_SUAPI_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>-67.47317,-15.50762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>AGRARIA_22_DE_JULIO_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>-67.55106,-15.35143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>SANTA_ANA_DE_MOSETENES_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-67.42295,-15.51073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>SAN_PEDRO_DE_LLUQUIMUNI_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-67.67519,-15.24191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>TRONCAL_INCAHUARA_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-67.63455,-15.45081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>VILLAZON_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>-67.36039,-15.52325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>CO_MULA_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-67.48951,-15.67438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>INICUA_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>-67.26244,-15.50837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>ALTO_MERCEDES_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-67.29969,-15.64897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>VILLA_EL_TRIUNFO_IRB1_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>-66.93816,-15.85196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>BAJO_ISRAEL_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>-67.52308,-15.75772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>TUPAC_AMARU_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>-67.4101,-15.8482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>SAN_JORGE_1RO_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>-67.65501,-15.79509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>SAN_JUAN_DE_PIQUENDO_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
                 <coordinates>-67.38689,-15.64571,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="55">
+        <Placemark id="133">
             <name>PUENTE_ALTO_BENI_4G</name>
-            <Point id="54">
+            <description>Categoría: Default</description>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
                 <coordinates>-67.37601,-15.56301,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="57">
+        <Placemark id="138">
             <name>NUEVA_ESPERANZA_LPZ_4G</name>
-            <Point id="56">
+            <description>Categoría: Default</description>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
                 <coordinates>-67.48506,-15.73875,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="59">
+        <Placemark id="143">
             <name>ALTO_AGUA_RICA_IRB2_4G</name>
-            <Point id="58">
+            <description>Categoría: Default</description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
                 <coordinates>-67.54663,-15.87362,0.0</coordinates>
             </Point>
         </Placemark>
