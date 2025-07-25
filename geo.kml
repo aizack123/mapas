@@ -1,237 +1,744 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="149">
+            <IconStyle id="150">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="151">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="154">
+            <IconStyle id="155">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="159">
+            <IconStyle id="160">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="161">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="164">
+            <IconStyle id="165">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="166">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="169">
+            <IconStyle id="170">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="171">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="174">
+            <IconStyle id="175">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="176">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="179">
+            <IconStyle id="180">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="181">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="184">
+            <IconStyle id="185">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="186">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="189">
+            <IconStyle id="190">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="191">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="194">
+            <IconStyle id="195">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="196">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <Placemark id="3">
             <name>AV_LAS_BANDERAS_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#4</styleUrl>
             <Point id="2">
                 <coordinates>-65.76184,-19.56208,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5">
+        <Placemark id="8">
             <name>LOS_PINOS_POTOSI_LTE</name>
-            <Point id="4">
+            <description>Categoría: Default</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
                 <coordinates>-65.7626,-17.09166,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="7">
+        <Placemark id="13">
             <name>AMERICA_POTOSI_LTE</name>
-            <Point id="6">
+            <description>Categoría: Default</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
                 <coordinates>-65.76041,-17.75187,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9">
+        <Placemark id="18">
             <name>ZONA_ALTIPAMPA_LTE</name>
-            <Point id="8">
+            <description>Categoría: Default</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
                 <coordinates>-65.74647,-19.04302,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="11">
-            <name>ARCE_POTOSI_LTE</name>
-            <Point id="10">
-                <coordinates>-65.75645,-17.75187,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13">
-            <name>LAS_ROSAS_LTE</name>
-            <Point id="12">
-                <coordinates>-65.75414,-17.62891,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15">
-            <name>STADIUM_POTOSI_LTE</name>
-            <Point id="14">
-                <coordinates>-65.76206,-19.03024,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17">
-            <name>PLAN40_LTE</name>
-            <Point id="16">
-                <coordinates>-65.77144,-21.47782,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19">
-            <name>CERVECERIA_LTE</name>
-            <Point id="18">
-                <coordinates>-65.74966,-17.44897,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21">
-            <name>FACULTAD_DE_ECONOMIA_ML</name>
-            <Point id="20">
-                <coordinates>-65.76108,-17.64104,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
-            <name>NORMAL_LTE</name>
+            <name>ARCE_POTOSI_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#24</styleUrl>
             <Point id="22">
-                <coordinates>-65.75391,-17.73031,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25">
-            <name>LOS_PINOS_DALIAS_LTE</name>
-            <Point id="24">
-                <coordinates>-65.76683,-17.09166,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27">
-            <name>ESTACION_ML</name>
-            <Point id="26">
-                <coordinates>-65.75916,-17.37751,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="29">
-            <name>DELICIAS_PTS_LTE</name>
-            <Point id="28">
-                <coordinates>-65.75986,-17.44897,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="31">
-            <name>AVENIDA_AMERICA_LTE</name>
-            <Point id="30">
-                <coordinates>-65.76356,-17.75187,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="33">
-            <name>VILLA_MECANICOS_LTE</name>
-            <Point id="32">
-                <coordinates>-65.74505,-19.56677,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="35">
-            <name>VILLA_ARGENTINA_LTE</name>
-            <Point id="34">
-                <coordinates>-65.76543,-15.94394,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="37">
-            <name>PLAN40</name>
-            <Point id="36">
-                <coordinates>-65.77144,-19.56026,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="39">
-            <name>PINOS_DALIAS</name>
-            <Point id="38">
-                <coordinates>-65.76683,-21.47782,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="41">
-            <name>VILLA_MECANICOS</name>
-            <Point id="40">
-                <coordinates>-65.74505,-15.94394,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="43">
-            <name>STADIUM_POTOSI_PCC3</name>
-            <Point id="42">
-                <coordinates>-65.76206,-19.03024,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="45">
-            <name>VILLA_ARGENTINA</name>
-            <Point id="44">
-                <coordinates>-65.76543,-15.94394,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="47">
-            <name>LOS_PINOS_DALIAS_4G</name>
-            <Point id="46">
-                <coordinates>-65.76683,-17.09166,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="49">
-            <name>DELICIAS_PTS</name>
-            <Point id="48">
-                <coordinates>-65.75986,-17.44897,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="51">
-            <name>CERVECERIA</name>
-            <Point id="50">
-                <coordinates>-65.74966,-17.44897,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="53">
-            <name>ZONA_ALTIPAMPA_4G</name>
-            <Point id="52">
-                <coordinates>-65.74647,-19.04302,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="55">
-            <name>AV_LAS_BANDERAS_4G</name>
-            <Point id="54">
-                <coordinates>-65.76184,-17.75187,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="57">
-            <name>DELICIAS_PTS_4G</name>
-            <Point id="56">
-                <coordinates>-65.75986,-17.44897,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="59">
-            <name>AVENIDA_AMERICA_4G</name>
-            <Point id="58">
-                <coordinates>-65.76356,-17.75187,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="61">
-            <name>ARCE_POTOSI_4G</name>
-            <Point id="60">
                 <coordinates>-65.75645,-17.75187,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="63">
-            <name>CERVECERIA_4G</name>
-            <Point id="62">
-                <coordinates>-65.74966,-17.44897,0.0</coordinates>
+        <Placemark id="28">
+            <name>LAS_ROSAS_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-65.75414,-17.62891,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="65">
-            <name>PLAN40_4G</name>
-            <Point id="64">
-                <coordinates>-65.77144,-21.47782,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="67">
-            <name>NORMAL_4G</name>
-            <Point id="66">
-                <coordinates>-65.75391,-19.57474,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="69">
-            <name>VILLA_MECANICOS_4G</name>
-            <Point id="68">
-                <coordinates>-65.74505,-15.94394,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="71">
-            <name>LOS_PINOS_POTOSI_4G</name>
-            <Point id="70">
-                <coordinates>-65.7626,-19.56664,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="73">
-            <name>AMERICA_POTOSI_4G</name>
-            <Point id="72">
-                <coordinates>-65.76041,-17.75187,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="75">
-            <name>VILLA_ARGENTINA_4G</name>
-            <Point id="74">
-                <coordinates>-65.76543,-15.94394,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="77">
-            <name>STADIUM_POTOSI_4G</name>
-            <Point id="76">
+        <Placemark id="33">
+            <name>STADIUM_POTOSI_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
                 <coordinates>-65.76206,-19.03024,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="79">
+        <Placemark id="38">
+            <name>PLAN40_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>-65.77144,-21.47782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>CERVECERIA_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>-65.74966,-17.44897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>FACULTAD_DE_ECONOMIA_ML</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>-65.76108,-17.64104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>NORMAL_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>-65.75391,-17.73031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>LOS_PINOS_DALIAS_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>-65.76683,-17.09166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>ESTACION_ML</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>-65.75916,-17.37751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>DELICIAS_PTS_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>-65.75986,-17.44897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>AVENIDA_AMERICA_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-65.76356,-17.75187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>VILLA_MECANICOS_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-65.74505,-19.56677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>VILLA_ARGENTINA_LTE</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-65.76543,-15.94394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>PLAN40</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>-65.77144,-19.56026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>PINOS_DALIAS</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-65.76683,-21.47782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>VILLA_MECANICOS</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>-65.74505,-15.94394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>STADIUM_POTOSI_PCC3</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-65.76206,-19.03024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>VILLA_ARGENTINA</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>-65.76543,-15.94394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>LOS_PINOS_DALIAS_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>-65.76683,-17.09166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>DELICIAS_PTS</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>-65.75986,-17.44897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>CERVECERIA</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>-65.74966,-17.44897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>ZONA_ALTIPAMPA_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
+                <coordinates>-65.74647,-19.04302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>AV_LAS_BANDERAS_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>-65.76184,-17.75187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>DELICIAS_PTS_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>-65.75986,-17.44897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>AVENIDA_AMERICA_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>-65.76356,-17.75187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name>ARCE_POTOSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#149</styleUrl>
+            <Point id="147">
+                <coordinates>-65.75645,-17.75187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>CERVECERIA_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#154</styleUrl>
+            <Point id="152">
+                <coordinates>-65.74966,-17.44897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <name>PLAN40_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#159</styleUrl>
+            <Point id="157">
+                <coordinates>-65.77144,-21.47782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>NORMAL_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#164</styleUrl>
+            <Point id="162">
+                <coordinates>-65.75391,-19.57474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <name>VILLA_MECANICOS_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#169</styleUrl>
+            <Point id="167">
+                <coordinates>-65.74505,-15.94394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>LOS_PINOS_POTOSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#174</styleUrl>
+            <Point id="172">
+                <coordinates>-65.7626,-19.56664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <name>AMERICA_POTOSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#179</styleUrl>
+            <Point id="177">
+                <coordinates>-65.76041,-17.75187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>VILLA_ARGENTINA_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#184</styleUrl>
+            <Point id="182">
+                <coordinates>-65.76543,-15.94394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <name>STADIUM_POTOSI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#189</styleUrl>
+            <Point id="187">
+                <coordinates>-65.76206,-19.03024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
             <name>LAS_ROSAS_4G</name>
-            <Point id="78">
+            <description>Categoría: Default</description>
+            <styleUrl>#194</styleUrl>
+            <Point id="192">
                 <coordinates>-65.75414,-17.62891,0.0</coordinates>
             </Point>
         </Placemark>
