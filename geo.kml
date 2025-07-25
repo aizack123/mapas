@@ -287,212 +287,269 @@
                 </Icon>
             </IconStyle>
         </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <color>FF00AA00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <Placemark id="3">
-            <name>AV_LAS_BANDERAS_LTE</name>
+            <name>SUAPI_KM73_TSI</name>
             <description>Categoría: Default</description>
             <styleUrl>#4</styleUrl>
             <Point id="2">
-                <coordinates>-65.76184,-19.56208,0.0</coordinates>
+                <coordinates>-67.45112,-15.51194,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="8">
-            <name>LOS_PINOS_POTOSI_LTE</name>
+            <name>ORO_VERDE_TSI</name>
             <description>Categoría: Default</description>
             <styleUrl>#9</styleUrl>
             <Point id="7">
-                <coordinates>-65.7626,-17.09166,0.0</coordinates>
+                <coordinates>-67.46283,-15.53391,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="13">
-            <name>AMERICA_POTOSI_LTE</name>
+            <name>SAN_LORENZO_CARANAVI_TSI</name>
             <description>Categoría: Default</description>
             <styleUrl>#14</styleUrl>
             <Point id="12">
-                <coordinates>-65.76041,-17.75187,0.0</coordinates>
+                <coordinates>-67.50969,-15.79165,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="18">
-            <name>ZONA_ALTIPAMPA_LTE</name>
+            <name>CASERIOS_NUEVE_TSI</name>
             <description>Categoría: Default</description>
             <styleUrl>#19</styleUrl>
             <Point id="17">
-                <coordinates>-65.74647,-19.04302,0.0</coordinates>
+                <coordinates>-67.3995,-15.59653,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
-            <name>ARCE_POTOSI_LTE</name>
+            <name>SANTA_ROSA_ALTO_BENI_TSI</name>
             <description>Categoría: Default</description>
             <styleUrl>#24</styleUrl>
             <Point id="22">
-                <coordinates>-65.75645,-17.75187,0.0</coordinates>
+                <coordinates>-67.45009,-15.54763,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="28">
-            <name>LAS_ROSAS_LTE</name>
+            <name>KOLLASUYO_B_TSI_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#29</styleUrl>
             <Point id="27">
-                <coordinates>-65.75414,-17.62891,0.0</coordinates>
+                <coordinates>-67.56223,-15.66208,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="33">
-            <name>STADIUM_POTOSI_LTE</name>
+            <name>CASERIOS_NUEVE_TSI_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#34</styleUrl>
             <Point id="32">
-                <coordinates>-65.76206,-19.03024,0.0</coordinates>
+                <coordinates>-67.3995,-15.59653,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="38">
-            <name>PLAN40_LTE</name>
+            <name>SANTA_ROSA_ALTO_BENI_TSI_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#39</styleUrl>
             <Point id="37">
-                <coordinates>-65.77144,-21.47782,0.0</coordinates>
+                <coordinates>-67.45009,-15.54763,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="43">
-            <name>CERVECERIA_LTE</name>
+            <name>ORO_VERDE_TSI_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#44</styleUrl>
             <Point id="42">
-                <coordinates>-65.74966,-17.44897,0.0</coordinates>
+                <coordinates>-67.46283,-15.53391,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="48">
-            <name>FACULTAD_DE_ECONOMIA_ML</name>
+            <name>SAN_LORENZO_CARANAVI_TSI_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#49</styleUrl>
             <Point id="47">
-                <coordinates>-65.76108,-17.64104,0.0</coordinates>
+                <coordinates>-67.50969,-15.79165,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="53">
-            <name>NORMAL_LTE</name>
+            <name>SUAPI_KM73_TSI_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#54</styleUrl>
             <Point id="52">
-                <coordinates>-65.75391,-17.73031,0.0</coordinates>
+                <coordinates>-67.45112,-15.51194,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="58">
-            <name>LOS_PINOS_DALIAS_LTE</name>
+            <name>MAYAYA_PUEBLO_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#59</styleUrl>
             <Point id="57">
-                <coordinates>-65.76683,-17.09166,0.0</coordinates>
+                <coordinates>-67.60716,-15.41678,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="63">
-            <name>ESTACION_ML</name>
+            <name>PALMAR_SUAPI_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#64</styleUrl>
             <Point id="62">
-                <coordinates>-65.75916,-17.37751,0.0</coordinates>
+                <coordinates>-67.47317,-15.50762,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="68">
-            <name>DELICIAS_PTS_LTE</name>
+            <name>AGRARIA_22_DE_JULIO_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#69</styleUrl>
             <Point id="67">
-                <coordinates>-65.75986,-17.44897,0.0</coordinates>
+                <coordinates>-67.55106,-15.35143,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="73">
-            <name>AVENIDA_AMERICA_LTE</name>
+            <name>SANTA_ANA_DE_MOSETENES_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#74</styleUrl>
             <Point id="72">
-                <coordinates>-65.76356,-17.75187,0.0</coordinates>
+                <coordinates>-67.42295,-15.51073,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="78">
-            <name>VILLA_MECANICOS_LTE</name>
+            <name>SAN_PEDRO_DE_LLUQUIMUNI_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#79</styleUrl>
             <Point id="77">
-                <coordinates>-65.74505,-19.56677,0.0</coordinates>
+                <coordinates>-67.67519,-15.24191,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="83">
-            <name>VILLA_ARGENTINA_LTE</name>
+            <name>TRONCAL_INCAHUARA_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#84</styleUrl>
             <Point id="82">
-                <coordinates>-65.76543,-15.94394,0.0</coordinates>
+                <coordinates>-67.63455,-15.45081,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="88">
-            <name>PLAN40</name>
+            <name>VILLAZON_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#89</styleUrl>
             <Point id="87">
-                <coordinates>-65.77144,-19.56026,0.0</coordinates>
+                <coordinates>-67.36039,-15.52325,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="93">
-            <name>PINOS_DALIAS</name>
+            <name>CO_MULA_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#94</styleUrl>
             <Point id="92">
-                <coordinates>-65.76683,-21.47782,0.0</coordinates>
+                <coordinates>-67.48951,-15.67438,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="98">
-            <name>VILLA_MECANICOS</name>
+            <name>INICUA_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#99</styleUrl>
             <Point id="97">
-                <coordinates>-65.74505,-15.94394,0.0</coordinates>
+                <coordinates>-67.26244,-15.50837,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="103">
-            <name>STADIUM_POTOSI_PCC3</name>
+            <name>ALTO_MERCEDES_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#104</styleUrl>
             <Point id="102">
-                <coordinates>-65.76206,-19.03024,0.0</coordinates>
+                <coordinates>-67.29969,-15.64897,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="108">
-            <name>VILLA_ARGENTINA</name>
+            <name>VILLA_EL_TRIUNFO_IRB1_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#109</styleUrl>
             <Point id="107">
-                <coordinates>-65.76543,-15.94394,0.0</coordinates>
+                <coordinates>-66.93816,-15.85196,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="113">
-            <name>LOS_PINOS_DALIAS_4G</name>
+            <name>BAJO_ISRAEL_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#114</styleUrl>
             <Point id="112">
-                <coordinates>-65.76683,-17.09166,0.0</coordinates>
+                <coordinates>-67.52308,-15.75772,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="118">
-            <name>DELICIAS_PTS</name>
+            <name>TUPAC_AMARU_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#119</styleUrl>
             <Point id="117">
-                <coordinates>-65.75986,-17.44897,0.0</coordinates>
+                <coordinates>-67.4101,-15.8482,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="123">
-            <name>CERVECERIA</name>
+            <name>SAN_JORGE_1RO_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#124</styleUrl>
             <Point id="122">
-                <coordinates>-65.74966,-17.44897,0.0</coordinates>
+                <coordinates>-67.65501,-15.79509,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="128">
-            <name>ZONA_ALTIPAMPA_4G</name>
+            <name>SAN_JUAN_DE_PIQUENDO_IRB2_4G</name>
             <description>Categoría: Default</description>
             <styleUrl>#129</styleUrl>
             <Point id="127">
-                <coordinates>-65.74647,-19.04302,0.0</coordinates>
+                <coordinates>-67.38689,-15.64571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>PUENTE_ALTO_BENI_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>-67.37601,-15.56301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>NUEVA_ESPERANZA_LPZ_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>-67.48506,-15.73875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>ALTO_AGUA_RICA_IRB2_4G</name>
+            <description>Categoría: Default</description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>-67.54663,-15.87362,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
