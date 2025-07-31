@@ -4,127 +4,127 @@
         <Placemark id="3">
             <name>PENTAGUAZU_ESTE_LTE</name>
             <Point id="2">
-                <coordinates>-17.59675,-17.59675,0.0</coordinates>
+                <coordinates>-63.1206,-17.59675,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="5">
             <name>PENTAGUAZU_CATALINA_LTE</name>
             <Point id="4">
-                <coordinates>-17.5985,-17.5985,0.0</coordinates>
+                <coordinates>-63.09383,-17.5985,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="7">
             <name>PENTAGUAZU_JUAN_PABLO_II_LTE</name>
             <Point id="6">
-                <coordinates>-17.58875,-17.58875,0.0</coordinates>
+                <coordinates>-63.14492,-17.58875,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="9">
             <name>PENTAGUAZU_II_LTE</name>
             <Point id="8">
-                <coordinates>-17.61124,-17.61124,0.0</coordinates>
+                <coordinates>-63.12844,-17.61124,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="11">
             <name>URB_INTEGRAL_DEL_NORTE_LTE</name>
             <Point id="10">
-                <coordinates>-17.59819,-17.59819,0.0</coordinates>
+                <coordinates>-63.17418,-17.59819,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="13">
             <name>URB_BIBOSI_LTE</name>
             <Point id="12">
-                <coordinates>-17.61128,-17.61128,0.0</coordinates>
+                <coordinates>-63.16296,-17.61128,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="15">
             <name>PENTAGUAZU_BUENA_FE_LTE</name>
             <Point id="14">
-                <coordinates>-17.61639,-17.61639,0.0</coordinates>
+                <coordinates>-63.14069,-17.61639,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="17">
             <name>PENTAGUAZU_LTE</name>
             <Point id="16">
-                <coordinates>-17.60249,-17.60249,0.0</coordinates>
+                <coordinates>-63.13899,-17.60249,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="19">
             <name>PENTAGUAZU</name>
             <Point id="18">
-                <coordinates>-17.60249,-17.60249,0.0</coordinates>
+                <coordinates>-63.13899,-17.60249,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="21">
             <name>PENTAGUAZU_ESTE</name>
             <Point id="20">
-                <coordinates>-17.59675,-17.59675,0.0</coordinates>
+                <coordinates>-63.1206,-17.59675,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
             <name>URB_INTEGRAL_DEL_NORTE</name>
             <Point id="22">
-                <coordinates>-17.59819,-17.59819,0.0</coordinates>
+                <coordinates>-63.17418,-17.59819,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="25">
             <name>PENTAGUAZU_JUAN_PABLO_II</name>
             <Point id="24">
-                <coordinates>-17.58875,-17.58875,0.0</coordinates>
+                <coordinates>-63.14492,-17.58875,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="27">
             <name>PENTAGUAZU_II</name>
             <Point id="26">
-                <coordinates>-17.61124,-17.61124,0.0</coordinates>
+                <coordinates>-63.12844,-17.61124,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="29">
             <name>PENTAGUAZU_4G</name>
             <Point id="28">
-                <coordinates>-17.60249,-17.60249,0.0</coordinates>
+                <coordinates>-63.13899,-17.60249,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="31">
             <name>PENTAGUAZU_JUAN_PABLO_II_4G</name>
             <Point id="30">
-                <coordinates>-17.58875,-17.58875,0.0</coordinates>
+                <coordinates>-63.14492,-17.58875,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="33">
             <name>URB_INTEGRAL_DEL_NORTE_4G</name>
             <Point id="32">
-                <coordinates>-17.59819,-17.59819,0.0</coordinates>
+                <coordinates>-63.17418,-17.59819,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="35">
             <name>PENTAGUAZU_II_4G</name>
             <Point id="34">
-                <coordinates>-17.61124,-17.61124,0.0</coordinates>
+                <coordinates>-63.12844,-17.61124,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="37">
             <name>URB_BIBOSI_4G</name>
             <Point id="36">
-                <coordinates>-17.61128,-17.61128,0.0</coordinates>
+                <coordinates>-63.16296,-17.61128,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="39">
             <name>PENTAGUAZU_ESTE_4G</name>
             <Point id="38">
-                <coordinates>-17.59675,-17.59675,0.0</coordinates>
+                <coordinates>-63.1206,-17.59675,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="41">
             <name>PENTAGUAZU_BUENA_FE_4G</name>
             <Point id="40">
-                <coordinates>-17.61639,-17.61639,0.0</coordinates>
+                <coordinates>-63.14069,-17.61639,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="43">
             <name>PENTAGUAZU_CATALINA_4G</name>
             <Point id="42">
-                <coordinates>-17.5985,-17.5985,0.0</coordinates>
+                <coordinates>-63.09383,-17.5985,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
