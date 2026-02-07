@@ -2,195 +2,75 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
         <Placemark id="3">
-            <name>EL_TRIUNFO_TSI</name>
+            <name>PUERTO_PATINO</name>
             <Point id="2">
-                <coordinates>-66.56603,-15.03514,0.0</coordinates>
+                <coordinates>-65.69112,-16.68094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="5">
-            <name>MERCEDES_APERE_TSI</name>
+            <name>FLORIDA_CHAPARE</name>
             <Point id="4">
-                <coordinates>-65.74925,-14.73581,0.0</coordinates>
+                <coordinates>-65.60127,-16.74916,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="7">
-            <name>SAN_PEDRO_SANTA_ANA_DE_YACUMA_IRB4</name>
+            <name>LIMO_DEL_ISIBORO</name>
             <Point id="6">
-                <coordinates>-65.6953,-14.66722,0.0</coordinates>
+                <coordinates>-65.68718,-16.68775,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="9">
-            <name>LA_CRUZ_BNI_TSI</name>
+            <name>ISINUTA</name>
             <Point id="8">
-                <coordinates>-66.73245,-14.97619,0.0</coordinates>
+                <coordinates>-65.63725,-16.73261,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="11">
-            <name>SAN_MIGUEL_MARTIRIO_TSI</name>
+            <name>ISINUTA_4G</name>
             <Point id="10">
-                <coordinates>-66.76353,-15.04246,0.0</coordinates>
+                <coordinates>-65.63725,-16.73261,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="13">
-            <name>KATERI_TSI</name>
+            <name>LIMO_DEL_ISIBORO_4G</name>
             <Point id="12">
-                <coordinates>-65.2053,-15.77219,0.0</coordinates>
+                <coordinates>-65.68718,-16.68775,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="15">
-            <name>EL_MASI_TSI</name>
+            <name>PUERTO_PATINO_4G</name>
             <Point id="14">
-                <coordinates>-64.92263,-15.286,0.0</coordinates>
+                <coordinates>-65.69112,-16.68094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="17">
-            <name>COQUINAL_TSI</name>
+            <name>FLORIDA_CHAPARE_4G</name>
             <Point id="16">
-                <coordinates>-65.85944,-12.97102,0.0</coordinates>
+                <coordinates>-65.60127,-16.74916,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="19">
-            <name>EVEREST_TSI</name>
+            <name>LIMO_DEL_ISIBORO_LTE</name>
             <Point id="18">
-                <coordinates>-67.74301,-14.2783,0.0</coordinates>
+                <coordinates>-65.68718,-16.68775,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="21">
-            <name>SANTA_ANA_TSI</name>
+            <name>ISINUTA_LTE</name>
             <Point id="20">
-                <coordinates>-67.76444,-14.23886,0.0</coordinates>
+                <coordinates>-65.63725,-16.73261,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
-            <name>VILLA_SAN_JUAN_TSI</name>
+            <name>FLORIDA_CHAPARE_LTE</name>
             <Point id="22">
-                <coordinates>-67.36227,-16.78437,0.0</coordinates>
+                <coordinates>-65.60127,-16.74916,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="25">
-            <name>CORACHAPI_TSI</name>
+            <name>PUERTO_PATINO_LTE</name>
             <Point id="24">
-                <coordinates>-67.1105,-16.99235,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27">
-            <name>SANTA_ROSA_DE_MARAVILLA_TSI</name>
-            <Point id="26">
-                <coordinates>-68.00481,-13.95242,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="29">
-            <name>CAPINIATA_IRB3A</name>
-            <Point id="28">
-                <coordinates>-67.06042,-16.99601,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="31">
-            <name>CHOQUETANGA_CHICO_IRB3A</name>
-            <Point id="30">
-                <coordinates>-67.36949,-16.7649,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="33">
-            <name>SAN_JOSE_DE_SUAPI_IRB3A</name>
-            <Point id="32">
-                <coordinates>-67.77459,-16.08901,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="35">
-            <name>SAN_ISIDRO_TSI</name>
-            <Point id="34">
-                <coordinates>-67.61562,-14.3985,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="37">
-            <name>25_DE_MAYO_SAN_BUENA_TSI</name>
-            <Point id="36">
-                <coordinates>-67.7898,-14.20951,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="39">
-            <name>LA_CRUZ_BNI_TSI_4G</name>
-            <Point id="38">
-                <coordinates>-66.73245,-14.97619,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="41">
-            <name>MERCEDES_APERE_TSI_4G</name>
-            <Point id="40">
-                <coordinates>-65.74925,-14.73581,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="43">
-            <name>EL_MASI_TSI_4G</name>
-            <Point id="42">
-                <coordinates>-64.92263,-15.286,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="45">
-            <name>EL_TRIUNFO_TSI_4G</name>
-            <Point id="44">
-                <coordinates>-66.56603,-15.03514,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="47">
-            <name>KATERI_TSI_4G</name>
-            <Point id="46">
-                <coordinates>-65.2053,-15.77219,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="49">
-            <name>COQUINAL_TSI_4G</name>
-            <Point id="48">
-                <coordinates>-65.85944,-12.97102,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="51">
-            <name>SAN_MIGUEL_MARTIRIO_TSI_4G</name>
-            <Point id="50">
-                <coordinates>-66.76353,-15.04246,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="53">
-            <name>CORACHAPI_TSI_4G</name>
-            <Point id="52">
-                <coordinates>-67.1105,-16.99235,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="55">
-            <name>SANTA_ROSA_DE_MARAVILLA_TSI_4G</name>
-            <Point id="54">
-                <coordinates>-68.00481,-13.95242,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="57">
-            <name>SAN_ISIDRO_TSI_4G</name>
-            <Point id="56">
-                <coordinates>-67.61562,-14.3985,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="59">
-            <name>25_DE_MAYO_SAN_BUENA_TSI_4G</name>
-            <Point id="58">
-                <coordinates>-67.7898,-14.20951,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="61">
-            <name>EVEREST_TSI_4G</name>
-            <Point id="60">
-                <coordinates>-67.74301,-14.2783,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="63">
-            <name>VILLA_SAN_JUAN_TSI_4G</name>
-            <Point id="62">
-                <coordinates>-67.36227,-16.78437,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="65">
-            <name>SANTA_ANA_TSI_4G</name>
-            <Point id="64">
-                <coordinates>-67.76444,-14.23886,0.0</coordinates>
+                <coordinates>-65.69112,-16.68094,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
