@@ -2,273 +2,177 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
         <Placemark id="3">
-            <name>REMANZO_TSI</name>
+            <name>MINEROS_II</name>
             <Point id="2">
-                <coordinates>-64.77453,-16.01327,0.0</coordinates>
+                <coordinates>-63.22646,-17.11641,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="5">
-            <name>BETANIA_TSI</name>
+            <name>SAN_MARCOS_FERNANDEZ_ALONSO_IRB4</name>
             <Point id="4">
-                <coordinates>-64.80221,-16.10942,0.0</coordinates>
+                <coordinates>-63.15062,-16.90479,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="7">
-            <name>PUERTO_LAS_FLORES_TSI</name>
+            <name>HARDEMAN</name>
             <Point id="6">
-                <coordinates>-64.68262,-16.40613,0.0</coordinates>
+                <coordinates>-63.61638,-16.67622,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="9">
-            <name>CAPERNAUM_TSI</name>
+            <name>CANANDOA</name>
             <Point id="8">
-                <coordinates>-64.76964,-16.67583,0.0</coordinates>
+                <coordinates>-63.86556,-16.4058,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="11">
-            <name>EL_TUNA_TSI</name>
+            <name>SAN_JOSE_DEL_NORTE</name>
             <Point id="10">
-                <coordinates>-59.69757,-16.62721,0.0</coordinates>
+                <coordinates>-63.37957,-16.84826,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="13">
-            <name>TRINIDADCITO_TSI</name>
+            <name>CHANE</name>
             <Point id="12">
-                <coordinates>-64.93825,-16.44848,0.0</coordinates>
+                <coordinates>-63.22447,-16.97625,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="15">
-            <name>EL_CARMEN_TSI</name>
+            <name>LITORAL_TCT</name>
             <Point id="14">
-                <coordinates>-64.90427,-16.17097,0.0</coordinates>
+                <coordinates>-63.57411,-16.72611,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="17">
-            <name>ITIRAPAMPA_TSI</name>
+            <name>COLONIA_PIRAI</name>
             <Point id="16">
-                <coordinates>-65.51293,-17.05556,0.0</coordinates>
+                <coordinates>-63.71633,-16.52808,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="19">
-            <name>FLORIDA_TSI</name>
+            <name>LITORAL_TCT_4G</name>
             <Point id="18">
-                <coordinates>-61.1935,-14.60968,0.0</coordinates>
+                <coordinates>-63.57411,-16.72611,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="21">
-            <name>19_DE_AGOSTO_TSI</name>
+            <name>COLONIA_PIRAI_4G</name>
             <Point id="20">
-                <coordinates>-63.2228,-16.67946,0.0</coordinates>
+                <coordinates>-63.71633,-16.52808,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
-            <name>HILO_HILO_TSI</name>
+            <name>HARDEMAN_4G</name>
             <Point id="22">
-                <coordinates>-69.03107,-14.92365,0.0</coordinates>
+                <coordinates>-63.61638,-16.67622,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="25">
-            <name>EL_PALMAR_VT_TSI</name>
+            <name>CANANDOA_4G</name>
             <Point id="24">
-                <coordinates>-65.54145,-17.10912,0.0</coordinates>
+                <coordinates>-63.86556,-16.4058,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="27">
-            <name>SANTA_ISABEL_TSI</name>
+            <name>SAN_JOSE_DEL_NORTE_4G</name>
             <Point id="26">
-                <coordinates>-64.72868,-16.50333,0.0</coordinates>
+                <coordinates>-63.37957,-16.84826,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="29">
-            <name>EL_YESO_IRB3</name>
+            <name>FERNANDEZ_ALONSO_1_DE_MAYO_4G</name>
             <Point id="28">
-                <coordinates>-63.69746,-19.0103,0.0</coordinates>
+                <coordinates>-63.22189,-17.00918,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="31">
-            <name>BARRANQUILLA_TSI</name>
+            <name>CHANE_VILLA_BARRIENTOS_4G</name>
             <Point id="30">
-                <coordinates>-64.94656,-16.38546,0.0</coordinates>
+                <coordinates>-63.22463,-16.96433,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="33">
-            <name>SANTA_ROSA_DE_LA_BOCA_TSI</name>
+            <name>MINEROS_II_4G</name>
             <Point id="32">
-                <coordinates>-64.75747,-15.93844,0.0</coordinates>
+                <coordinates>-63.22646,-17.11641,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="35">
-            <name>SANTA_ANITA_TSI</name>
+            <name>CHANE_4G</name>
             <Point id="34">
-                <coordinates>-64.82597,-16.11609,0.0</coordinates>
+                <coordinates>-63.22447,-16.97625,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="37">
-            <name>CURUPAITI_TSI</name>
+            <name>AGUAI_4G</name>
             <Point id="36">
-                <coordinates>-63.63045,-19.57623,0.0</coordinates>
+                <coordinates>-63.31285,-16.89673,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="39">
-            <name>AGRO_FORESTAL_SANTA_ROSA_TSI</name>
+            <name>CHANE_VILLA_BARRIENTOS_LTE</name>
             <Point id="38">
-                <coordinates>-67.6994,-12.0452,0.0</coordinates>
+                <coordinates>-63.22463,-16.96433,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="41">
-            <name>HILO_HILO_TSI_4G</name>
+            <name>MINEROS_II_LTE</name>
             <Point id="40">
-                <coordinates>-69.03107,-14.92365,0.0</coordinates>
+                <coordinates>-63.22646,-17.11641,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="43">
-            <name>CAPERNAUM_TSI_4G</name>
+            <name>CHANE_LTE</name>
             <Point id="42">
-                <coordinates>-64.76964,-16.67583,0.0</coordinates>
+                <coordinates>-63.22447,-16.97625,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="45">
-            <name>TRINIDADCITO_TSI_4G</name>
+            <name>LITORAL_SP_LTE</name>
             <Point id="44">
-                <coordinates>-64.93825,-16.44848,0.0</coordinates>
+                <coordinates>-63.57411,-16.72611,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="47">
-            <name>BARRANQUILLA_TSI_4G</name>
+            <name>AGUAI_LTE</name>
             <Point id="46">
-                <coordinates>-64.94656,-16.38546,0.0</coordinates>
+                <coordinates>-63.31285,-16.89673,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="49">
-            <name>SANTA_ROSA_DE_LA_BOCA_TSI_4G</name>
+            <name>CANANDOA_LTE</name>
             <Point id="48">
-                <coordinates>-64.75747,-15.93844,0.0</coordinates>
+                <coordinates>-63.86556,-16.4058,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="51">
-            <name>SANTA_ANITA_TSI_4G</name>
+            <name>LIMONCITO_ML</name>
             <Point id="50">
-                <coordinates>-64.82597,-16.11609,0.0</coordinates>
+                <coordinates>-63.29206,-16.64195,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="53">
-            <name>REMANZO_TSI_4G</name>
+            <name>SAN_MARCOS_FERNANDEZ_ALONSO_IRB4_LTE</name>
             <Point id="52">
-                <coordinates>-64.77453,-16.01327,0.0</coordinates>
+                <coordinates>-63.15062,-16.90479,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="55">
-            <name>SANTA_ISABEL_TSI_4G</name>
+            <name>FERNANDEZ_ALONSO_1_DE_MAYO_LTE</name>
             <Point id="54">
-                <coordinates>-64.72868,-16.50333,0.0</coordinates>
+                <coordinates>-63.22189,-17.00918,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="57">
-            <name>EL_PALMAR_VT_TSI_4G</name>
+            <name>HARDEMAN_LTE</name>
             <Point id="56">
-                <coordinates>-65.54145,-17.10912,0.0</coordinates>
+                <coordinates>-63.61638,-16.67622,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="59">
-            <name>PUERTO_LAS_FLORES_TSI_4G</name>
+            <name>SAN_JOSE_DEL_NORTE_LTE</name>
             <Point id="58">
-                <coordinates>-64.68262,-16.40613,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="61">
-            <name>EL_CARMEN_TSI_4G</name>
-            <Point id="60">
-                <coordinates>-64.90427,-16.17097,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="63">
-            <name>MONTE_VERDE_CONCEPCION_4G</name>
-            <Point id="62">
-                <coordinates>-62.31279,-15.39281,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="65">
-            <name>19_DE_AGOSTO_TSI_4G</name>
-            <Point id="64">
-                <coordinates>-63.2228,-16.67946,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="67">
-            <name>BETANIA_TSI_4G</name>
-            <Point id="66">
-                <coordinates>-64.80221,-16.10942,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="69">
-            <name>ITIRAPAMPA_TSI_4G</name>
-            <Point id="68">
-                <coordinates>-65.51293,-17.05556,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="71">
-            <name>EL_TUNA_TSI_4G</name>
-            <Point id="70">
-                <coordinates>-59.69757,-16.62721,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="73">
-            <name>CURUPAITI_TSI_4G</name>
-            <Point id="72">
-                <coordinates>-63.63045,-19.57623,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="75">
-            <name>FLORIDA_TSI_4G</name>
-            <Point id="74">
-                <coordinates>-61.1935,-14.60968,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="77">
-            <name>AGRO_FORESTAL_SANTA_ROSA_TSI_4G</name>
-            <Point id="76">
-                <coordinates>-67.6994,-12.0452,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="79">
-            <name>SAN_MIGUELITO_CHAPARE_TSI</name>
-            <Point id="78">
-                <coordinates>-65.44085,-16.52599,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="81">
-            <name>PUERTO_PEREZ_TSI</name>
-            <Point id="80">
-                <coordinates>-68.55686,-12.44285,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="83">
-            <name>COPAI_IRB3_LTE</name>
-            <Point id="82">
-                <coordinates>-62.34396,-13.85173,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="85">
-            <name>EL_YESO_IRB3_LTE</name>
-            <Point id="84">
-                <coordinates>-63.69746,-19.0103,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="87">
-            <name>ZONGO_LTE</name>
-            <Point id="86">
-                <coordinates>-68.14133,-16.17756,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="89">
-            <name>BERNARDINO_RACUA_LTE</name>
-            <Point id="88">
-                <coordinates>-67.29685,-10.65051,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="91">
-            <name>LIMONCITO_ML</name>
-            <Point id="90">
-                <coordinates>-63.29206,-16.64195,0.0</coordinates>
+                <coordinates>-63.37957,-16.84826,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
